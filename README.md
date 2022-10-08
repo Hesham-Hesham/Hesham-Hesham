@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **RTOS, Robotics, and automatic control**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hesham-hesham-97091a186/](https://www.linkedin.com/in/hesham-hesham-97091a186/)
+- 👨‍💻 All of my projects are available at the projects section on [my linkedin profile](https://www.linkedin.com/in/hesham-hesham-97091a186/)
 
 - 📫 How to reach me **hesham8ellabban@gmail.com**
 
