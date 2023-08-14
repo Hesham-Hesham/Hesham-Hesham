@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hesham Hesham</h1>
-<h3 align="center">A senior mechatronics engineering student hungry to grow technical knowledge. Takes constructive criticism well and leverages challenges into learning experiences.</h3>
+<h3 align="center">A mechatronics engineer hungry to grow technical knowledge. Takes constructive criticism well and leverages challenges into learning experiences.</h3>
 
 - 🌱 I’m currently learning **RTOS, Robotics, and automatic control**
 
