@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hesham Hesham</h1>
 <h3 align="center">A mechatronics engineer hungry to grow technical knowledge. Takes constructive criticism well and leverages challenges into learning experiences.</h3>
 
-- 🌱 I’m currently learning **RTOS, Robotics, and automatic control**
+- 🌱 I’m currently learning **MEMS design and fabrication**
 
 - 👨‍💻 All of my projects are available at the projects section on [my linkedin profile](https://www.linkedin.com/in/hesham-hesham-97091a186/)
 
